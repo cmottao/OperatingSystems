@@ -1,0 +1,10 @@
+# Ignore dataset
+dataset.csv
+
+# Ignore generated binaries
+*.bin
+
+# Ignore executables
+server
+client
+create_index 
