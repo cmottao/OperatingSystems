@@ -1,4 +1,4 @@
-# Operating Systems
+# OperatingSystems
 
 Practices developed during the "Operating Systems" course. Its purpose is to organize and document the projects where theoretical concepts were applied in a practical way, including process communication, file handling, concurrency, synchronization, and client-server system design.
 
@@ -20,7 +20,7 @@ The server is responsible for managing access to the data and responding to clie
 
 ### Building
 
-To compile, run:
+To compile the project, run:
 
 ```bash
 make
